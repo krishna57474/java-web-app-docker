@@ -109,8 +109,8 @@
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://65.0.87.13:8081/repository/maven-snapshots/</url>
+	      <name>java-web-app</name>
+	      <url>http://65.0.87.13:8081/repository/java-web-app/</url>
 	    </snapshotRepository>
 	</distributionManagement> 
 	
